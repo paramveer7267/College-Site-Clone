@@ -1,0 +1,175 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: rgb(165, 4, 4);
+    padding: 20px 0 10px 0;
+    font-size: x-large;
+}
+
+h2 {
+    font-size: small;
+    padding: 0 0 10px 100px;
+}
+
+h3 {
+    padding: 20px 0 0 20px;
+    font-size: xx-large;
+}
+
+.art {
+    margin: 20px;
+    font-size: large;
+}
+
+.art1 {
+    display: flex;
+}
+
+.art1 img {
+    padding: 0px 20px 0 20px;
+    width: 400px;
+}
+
+
+.line {
+    background-color: rgb(165, 4, 4);
+    padding: 0 0 0 450px;
+}
+
+.line a {
+    text-decoration: none;
+    color: white;
+}
+
+.line a:hover {
+    color: rgb(127, 125, 125);
+}
+
+.line ul li {
+    color: white;
+    display: inline-flex;
+    justify-content: center;
+    padding: 10px;
+    list-style-type: none;
+    border-style: solid;
+    border-width: 0 2px 0 0;
+    border-color: white;
+}
+
+.line ul li:hover {
+    color: rgb(127, 125, 125);
+}
+
+b {
+    font-size: larger;
+    padding-left: 10px;
+}
+
+.de {
+    padding: 10px;
+    font-size: larger;
+    margin: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    box-shadow: 7px 7px 7px rgb(45, 44, 44);
+}
+
+.depart1 {
+    padding: 10px;
+}
+
+li .cs {
+    text-decoration: none;
+    color: black;
+}
+
+.cs:hover {
+    color: rgb(195, 4, 4);
+    text-decoration: underline;
+}
+
+.fac {
+    background-color: rgb(243, 241, 241);
+    padding: 10px 30px 20px 30px;
+}
+
+.sub li {
+    list-style-type: none;
+}
+
+.wt:hover {
+    color: rgb(195, 2, 2);
+    text-decoration: underline;
+}
+
+h4 {
+    font-size: large;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+}
+
+.h2 {
+    font-size: larger;
+    padding: 10px 10px 10px 60px;
+}
+
+.il li {
+    list-style-type: none;
+    border-color: rgb(229, 229, 229);
+    border-style: solid;
+    border-width: 0 0 1px 0;
+    /* margin-left: 60px; */
+    width: 200px;
+    padding: 0;
+    margin: 0 0 0 70px;
+}
+
+.ho:hover {
+    color: rgb(195, 2, 2);
+    text-decoration: underline;
+}
+
+.fra {
+    display: inline-flex;
+
+}
+
+.fra .rn {
+    margin: 10px 0 0 100px;
+}
+
+.fra .rn img {
+    width: ;
+}
+
+.fra .dk {
+    margin: 10px 0 0 100px;
+}
+
+.fra .dk img {
+    width: 170px;
+}
+.dk ul li{
+    list-style-type: none;
+    padding: 10px;
+    color: rgb(99, 98, 98);
+}
+.rn ul li{
+    color:rgb(99, 98, 98);
+    list-style-type: none;
+    padding: 10px;
+}
